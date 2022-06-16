@@ -1,8 +1,23 @@
+# use postman to check my API is work
+
+## get:
+![get_all_cart_info](https://user-images.githubusercontent.com/105201222/173970204-9cb149a8-73b0-497e-b823-3176e3604f25.png)
+
+## patch:
+![patch](https://user-images.githubusercontent.com/105201222/173970198-f41f54d5-c181-46fe-98d2-60804bcd9266.png)
+
+## post:
+![post](https://user-images.githubusercontent.com/105201222/173970199-4a9aed38-c5fa-4dda-9636-74c2032c7e51.png)
+
+## delete:
 ![delete](https://user-images.githubusercontent.com/105201222/173970178-13f076cb-aeba-4050-9ec0-868e8bc39b12.png)
+
+## token:
 ![get_token](https://user-images.githubusercontent.com/105201222/173970193-b2437e44-b471-4af8-a259-0dd7dfa3c259.png)
 ![no_token](https://user-images.githubusercontent.com/105201222/173970196-36bdb626-e241-43ac-a1dc-35a38af4e584.png)
-![patch](https://user-images.githubusercontent.com/105201222/173970198-f41f54d5-c181-46fe-98d2-60804bcd9266.png)
-![post](https://user-images.githubusercontent.com/105201222/173970199-4a9aed38-c5fa-4dda-9636-74c2032c7e51.png)
+
+## swagger-ui:
 ![swagger-ui](https://user-images.githubusercontent.com/105201222/173970201-62b05522-ed39-494a-8eef-2266a0afe046.png)
+
+## fuzzy search:
 ![fuzzy_search](https://user-images.githubusercontent.com/105201222/173970203-8fc7f4bc-11e9-4688-8bf5-1ffb656064fd.png)
-![get_all_cart_info](https://user-images.githubusercontent.com/105201222/173970204-9cb149a8-73b0-497e-b823-3176e3604f25.png)
