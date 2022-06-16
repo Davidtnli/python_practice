@@ -1,23 +1,25 @@
 # use postman to check my API is work
 
 ## get:
-![get_all_cart_info](https://user-images.githubusercontent.com/105201222/173970204-9cb149a8-73b0-497e-b823-3176e3604f25.png)
+![get_all_cart_info](https://user-images.githubusercontent.com/105201222/173971170-d3883d51-c3de-4787-86c8-0fd4aba1072b.png)
 
 ## patch:
-![patch](https://user-images.githubusercontent.com/105201222/173970198-f41f54d5-c181-46fe-98d2-60804bcd9266.png)
+![patch](https://user-images.githubusercontent.com/105201222/173971178-e243033a-be6e-4bcf-940f-2c4b55181a81.png)
 
 ## post:
-![post](https://user-images.githubusercontent.com/105201222/173970199-4a9aed38-c5fa-4dda-9636-74c2032c7e51.png)
+![post](https://user-images.githubusercontent.com/105201222/173971187-7b0e1103-31f8-453f-8d18-fdd86d217bfd.png)
 
 ## delete:
-![delete](https://user-images.githubusercontent.com/105201222/173970178-13f076cb-aeba-4050-9ec0-868e8bc39b12.png)
+![delete](https://user-images.githubusercontent.com/105201222/173971199-ca864f7a-ced9-4974-bd78-8d131d1cfa7a.png)
 
-## token:
-![get_token](https://user-images.githubusercontent.com/105201222/173970193-b2437e44-b471-4af8-a259-0dd7dfa3c259.png)
-![no_token](https://user-images.githubusercontent.com/105201222/173970196-36bdb626-e241-43ac-a1dc-35a38af4e584.png)
+## get token:
+![get_token](https://user-images.githubusercontent.com/105201222/173971207-39ab728c-033c-4457-a49d-efaa6d0627e1.png)
+
+### without token:
+![no_token](https://user-images.githubusercontent.com/105201222/173971222-0e4faacf-ee4a-46c2-9860-aee0644e85bf.png)
 
 ## swagger-ui:
-![swagger-ui](https://user-images.githubusercontent.com/105201222/173970201-62b05522-ed39-494a-8eef-2266a0afe046.png)
+![swagger-ui](https://user-images.githubusercontent.com/105201222/173971237-35cb1df4-8cb1-4a4a-a8e3-113e3f38a9a5.png)
 
 ## fuzzy search:
-![fuzzy_search](https://user-images.githubusercontent.com/105201222/173970203-8fc7f4bc-11e9-4688-8bf5-1ffb656064fd.png)
+![fuzzy_search](https://user-images.githubusercontent.com/105201222/173971245-e07bee59-4885-46d0-b7c7-91e67ca26bdf.png)
